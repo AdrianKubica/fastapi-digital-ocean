@@ -1,0 +1,1 @@
+﻿ssh -L 5432:localhost:5432 -N -f -l root 165.22.71.84 --> moze byc koniecznosc zmiany tego piewrszego numeru portu na 15432
